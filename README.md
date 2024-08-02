@@ -23,5 +23,5 @@ Buton ile artık Kayıt/Register daha kolay!
 
 # İletişim!
 
-● Discord: [vsanctus](https://discord.com/users/347680480583352320)
+● Discord: [luxia](https://discord.com/users/347680480583352320)
 

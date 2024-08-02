@@ -25,5 +25,5 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # İletişim!
 
-● Discord: [luxia0](https://discord.com/users/347680480583352320)
+● Discord: [luxia](https://discord.com/users/347680480583352320)
 

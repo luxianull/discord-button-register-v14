@@ -1,7 +1,4 @@
-# realitycheats.com
-# https://realitycheats.com/members/luxiawio.23413/
-
-# Bilgilendirme
+# Bilgi
 
 Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır. Öneri ve şikayetleriniz için discord üzerinden bana ulaşabilirsiniz.
 
@@ -17,6 +14,8 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # Önemli
 
+● Projeden kod kullanacaksanız cr verin.
+
 ● Botun config dosyasını ayarlarken dosyadaki notlara dikkat ettin.
 
 ● Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz.
@@ -25,5 +24,5 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 # İletişim!
 
-● Discord: [luxia](https://discord.com/users/347680480583352320)
+● Discord: [vsanctus](https://discord.com/users/347680480583352320)
 

@@ -1,0 +1,26 @@
+{
+    "token": "DISCORD DEVELOPERS'DA OLUŞTURDUĞUNUZ BOT TOKEN",
+    "prefix": ". BOTUN PREFİXİ",
+    "GuildID": "SUNUCUNUZUN IDSI",
+
+    "fakeAccRole": "15 GÜN VE ÖNCESİNDE AÇILAN HESABA VERILECEK ROL",
+    "luxia_risk": "❗️",
+    "luxia_verify": "✅", 
+
+
+
+    "presence": {
+        "name": ["luxia", "BOTUN OYNUYOR KISMI 10 SANİYEDE BİR DEĞİŞİYOR"], 
+        "voiceChannelID": "BOTUN GİRECEĞİ SESLİ KANAL ID"  
+    },  
+
+
+    "kayıt": {
+        "kayıtchatID": "GİRİŞ MESAJININ ATILACAĞI KANAL ID",
+        "kayıtsızID": "KAYITSIZ ID",
+        "kayıtlıID": "KAYITTA VERİLECEK ROL ID",
+        "kayıtlıID2": "ISTERSENIZ KAYITTA 2. ROL ID",
+        "allowedRoleId": "YETKILI ROL ID"
+    }
+
+}
